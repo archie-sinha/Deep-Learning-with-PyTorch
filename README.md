@@ -4,7 +4,7 @@
 ~ GradCAM is the Gradient Class Activation Map. 
 ~ It helps us to indicate or show us the specific discriminative region of the image that influences the DL model to make the decision of classification.
 
-##Image Segmentation:
+## Image Segmentation:
 
 🔍 Custom Datasets:
 
